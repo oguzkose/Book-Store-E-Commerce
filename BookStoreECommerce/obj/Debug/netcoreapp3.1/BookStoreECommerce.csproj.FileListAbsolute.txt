@@ -356,9 +356,6 @@ C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\bin\Debug\n
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.csprojAssemblyReference.cache
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.AssemblyInfoInputs.cache
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.AssemblyInfo.cs
-C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.csproj.CoreCompileInputs.cache
-C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.RazorAssemblyInfo.cache
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.RazorAssemblyInfo.cs
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.TagHelpers.input.cache
@@ -382,3 +379,6 @@ C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\n
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.dll
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.pdb
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce\obj\Debug\netcoreapp3.1\BookStoreECommerce.MvcApplicationPartsAssemblyInfo.cache
