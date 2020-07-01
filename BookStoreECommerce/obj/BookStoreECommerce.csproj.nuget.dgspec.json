@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj": {}
+    "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj": {
+    "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
+        "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
         "projectName": "BookStoreECommerce",
-        "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
-        "packagesPath": "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\obj\\",
+        "projectPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
+        "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Oğuz KÖSE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
