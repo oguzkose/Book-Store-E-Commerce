@@ -1646,6 +1646,19 @@
         "runtime": {
           "bin/placeholder/BookStoreECommerce.Data.dll": {}
         }
+      },
+      "BookStoreECommerce.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BookStoreECommerce.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookStoreECommerce.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookStoreECommerce.Service.dll": {}
+        }
       }
     }
   },
@@ -5821,11 +5834,17 @@
       "type": "project",
       "path": "../BookStoreECommerce.Data/BookStoreECommerce.Data.csproj",
       "msbuildProject": "../BookStoreECommerce.Data/BookStoreECommerce.Data.csproj"
+    },
+    "BookStoreECommerce.Service/1.0.0": {
+      "type": "project",
+      "path": "../BookStoreECommerce.Service/BookStoreECommerce.Service.csproj",
+      "msbuildProject": "../BookStoreECommerce.Service/BookStoreECommerce.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "BookStoreECommerce.Data >= 1.0.0",
+      "BookStoreECommerce.Service >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.5",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.5",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.5",
@@ -5867,6 +5886,9 @@
           "projectReferences": {
             "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj": {
               "projectPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj"
+            },
+            "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj": {
+              "projectPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj"
             }
           }
         }
