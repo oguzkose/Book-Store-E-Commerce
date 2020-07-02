@@ -355,7 +355,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "3.1.5"
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
@@ -1632,6 +1632,32 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "BookStoreECommerce.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.5"
+        },
+        "compile": {
+          "bin/placeholder/BookStoreECommerce.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookStoreECommerce.Data.dll": {}
+        }
+      },
+      "BookStoreECommerce.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BookStoreECommerce.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookStoreECommerce.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookStoreECommerce.Service.dll": {}
         }
       }
     }
@@ -3092,11 +3118,12 @@
       ]
     },
     "System.ComponentModel.Primitives/4.3.0": {
-      "sha512": "KMVuoQ+8bMQ/Z59M3s64num5AD74X5YSqVc7ibwGkPTfmmkl2W8VuSxLRJtpw4KzQrSKUgR0BLbF0adPfcTSGQ==",
+      "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3130,7 +3157,7 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
+      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
@@ -5734,7 +5761,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
+      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
@@ -5802,36 +5829,49 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "BookStoreECommerce.Data/1.0.0": {
+      "type": "project",
+      "path": "../BookStoreECommerce.Data/BookStoreECommerce.Data.csproj",
+      "msbuildProject": "../BookStoreECommerce.Data/BookStoreECommerce.Data.csproj"
+    },
+    "BookStoreECommerce.Service/1.0.0": {
+      "type": "project",
+      "path": "../BookStoreECommerce.Service/BookStoreECommerce.Service.csproj",
+      "msbuildProject": "../BookStoreECommerce.Service/BookStoreECommerce.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "BookStoreECommerce.Data >= 1.0.0",
+      "BookStoreECommerce.Service >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.5",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.5",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.5",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 3.1.5",
+      "Microsoft.EntityFrameworkCore.Design >= 3.1.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.5",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.5"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\": {},
+    "C:\\Users\\Fatih\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
+      "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
       "projectName": "BookStoreECommerce",
-      "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
-      "packagesPath": "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\obj\\",
+      "projectPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
+      "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Oğuz KÖSE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5843,7 +5883,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj": {
+              "projectPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj"
+            },
+            "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj": {
+              "projectPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -5868,6 +5915,12 @@
             "version": "[3.1.5, )"
           },
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+            "target": "Package",
+            "version": "[3.1.5, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[3.1.5, )"
           },
