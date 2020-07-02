@@ -8,5 +8,5 @@ C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce.Data\obj\De
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce.Data\obj\Debug\netcoreapp3.1\BookStoreECommerce.Data.pdb
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce.Data\bin\Debug\netcoreapp3.1\BookStoreECommerce.Data.runtimeconfig.json
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce.Data\bin\Debug\netcoreapp3.1\BookStoreECommerce.Data.runtimeconfig.dev.json
-C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce.Data\obj\Debug\netcoreapp3.1\BookStoreECommerce.Data.csproj.CoreCompileInputs.cache
 C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce.Data\obj\Debug\netcoreapp3.1\BookStoreECommerce.Data.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\Book\Book-Store-E-Commerce\BookStoreECommerce.Data\obj\Debug\netcoreapp3.1\BookStoreECommerce.Data.csproj.CoreCompileInputs.cache
