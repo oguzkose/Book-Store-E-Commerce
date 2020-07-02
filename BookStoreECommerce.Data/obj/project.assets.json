@@ -780,11 +780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\BookEcommerce\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj",
       "projectName": "BookStoreECommerce.Data",
-      "projectPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj",
+      "projectPath": "C:\\Users\\Fatih\\Desktop\\BookEcommerce\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj",
       "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\obj\\",
+      "outputPath": "C:\\Users\\Fatih\\Desktop\\BookEcommerce\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

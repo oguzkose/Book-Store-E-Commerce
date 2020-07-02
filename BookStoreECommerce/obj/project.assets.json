@@ -5861,11 +5861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
+      "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\BookEcommerce\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
       "projectName": "BookStoreECommerce",
-      "projectPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
+      "projectPath": "C:\\Users\\Fatih\\Desktop\\BookEcommerce\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
       "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce\\obj\\",
+      "outputPath": "C:\\Users\\Fatih\\Desktop\\BookEcommerce\\Book-Store-E-Commerce\\BookStoreECommerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5884,11 +5884,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj": {
-              "projectPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj"
+            "C:\\Users\\Fatih\\Desktop\\BookEcommerce\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj": {
+              "projectPath": "C:\\Users\\Fatih\\Desktop\\BookEcommerce\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj"
             },
-            "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj": {
-              "projectPath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj"
+            "C:\\Users\\Fatih\\Desktop\\BookEcommerce\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj": {
+              "projectPath": "C:\\Users\\Fatih\\Desktop\\BookEcommerce\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj"
             }
           }
         }
