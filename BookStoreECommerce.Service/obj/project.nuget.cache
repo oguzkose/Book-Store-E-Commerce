@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ovE5U43iWK+TiSpnZ8dqvktVgtI2Lx+UPx3ATwPFm5UhDMelDawAfiXcTPm3KyFJdFfZpkrwGiZShjReNXSg6Q==",
+  "dgSpecHash": "VLbfsKkRqQsDxtpMTtEWEXyeR7RcmXQDlNHZeJGsFvcMBs4RqPlhkfOJUxEgOPrN/gpLM3GX9/4QVstj3cat5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fatih\\Desktop\\Book\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj",
+  "projectFilePath": "C:\\Users\\Fatih\\Desktop\\BookEcommerce\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fatih\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Fatih\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
