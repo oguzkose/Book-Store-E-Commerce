@@ -28,3 +28,18 @@ C:\Users\Oğuz KÖSE\source\repos\Book-Store-E-Commerce\BookStoreECommerce.Servi
 C:\Users\Oğuz KÖSE\source\repos\Book-Store-E-Commerce\BookStoreECommerce.Service\obj\Debug\netcoreapp3.1\BookStoreECommerce.Service.dll
 C:\Users\Oğuz KÖSE\source\repos\Book-Store-E-Commerce\BookStoreECommerce.Service\obj\Debug\netcoreapp3.1\BookStoreECommerce.Service.pdb
 C:\Users\Oğuz KÖSE\source\repos\Book-Store-E-Commerce\BookStoreECommerce.Service\obj\Debug\netcoreapp3.1\BookStoreECommerce.Service.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\bin\Debug\netcoreapp3.1\BookStoreECommerce.Service.deps.json
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\bin\Debug\netcoreapp3.1\BookStoreECommerce.Service.runtimeconfig.json
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\bin\Debug\netcoreapp3.1\BookStoreECommerce.Service.runtimeconfig.dev.json
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\bin\Debug\netcoreapp3.1\BookStoreECommerce.Service.dll
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\bin\Debug\netcoreapp3.1\BookStoreECommerce.Service.pdb
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\bin\Debug\netcoreapp3.1\BookStoreECommerce.Data.dll
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\bin\Debug\netcoreapp3.1\BookStoreECommerce.Data.pdb
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\obj\Debug\netcoreapp3.1\BookStoreECommerce.Service.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\obj\Debug\netcoreapp3.1\BookStoreECommerce.Service.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\obj\Debug\netcoreapp3.1\BookStoreECommerce.Service.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\obj\Debug\netcoreapp3.1\BookStoreECommerce.Service.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\obj\Debug\netcoreapp3.1\BookStoreECommerce.Service.csproj.CopyComplete
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\obj\Debug\netcoreapp3.1\BookStoreECommerce.Service.dll
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\obj\Debug\netcoreapp3.1\BookStoreECommerce.Service.pdb
+C:\Users\Fatih\Desktop\BookStoreECommer\Book-Store-E-Commerce\BookStoreECommerce.Service\obj\Debug\netcoreapp3.1\BookStoreECommerce.Service.genruntimeconfig.cache
