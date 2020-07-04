@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj": {}
+    "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj": {
+    "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj",
         "projectName": "BookStoreECommerce.Data",
-        "projectPath": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj",
-        "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\obj\\",
+        "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj",
+        "packagesPath": "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Oğuz KÖSE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,20 +71,20 @@
         }
       }
     },
-    "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj": {
+    "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj",
         "projectName": "BookStoreECommerce.Service",
-        "projectPath": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj",
-        "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\obj\\",
+        "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj",
+        "packagesPath": "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Oğuz KÖSE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,8 +97,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj": {
-                "projectPath": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj"
+              "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj": {
+                "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj"
               }
             }
           }
@@ -138,20 +138,20 @@
         }
       }
     },
-    "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj": {
+    "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
         "projectName": "BookStoreECommerce",
-        "projectPath": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
-        "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce\\obj\\",
+        "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\BookStoreECommerce.csproj",
+        "packagesPath": "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Oğuz KÖSE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,11 +164,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj": {
-                "projectPath": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj"
+              "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj": {
+                "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Data\\BookStoreECommerce.Data.csproj"
               },
-              "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj": {
-                "projectPath": "C:\\Users\\Fatih\\Desktop\\BookStoreECommer\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj"
+              "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj": {
+                "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\Book-Store-E-Commerce\\BookStoreECommerce.Service\\BookStoreECommerce.Service.csproj"
               }
             }
           }
